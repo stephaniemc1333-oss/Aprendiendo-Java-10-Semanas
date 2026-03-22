@@ -68,7 +68,7 @@ public class Main {
         }
         return (double) suma / TOTAL_NOTAS;
     }
-    
+    // Calcula todos promedio
     public static void calcularTodosLosPromedios() {
         for (int i = 0; i < TOTAL_ESTUDIANTES; i++) {
             promedios[i] = calcularPromedio(notas[i]);
