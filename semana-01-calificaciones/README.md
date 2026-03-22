@@ -28,3 +28,6 @@ cd Aprendiendo-Java-10-Semanas/semana-01-calificaciones
 # Compilar y ejecutar
 javac Main.java
 java Main
+
+## Versión
+1.0.0
