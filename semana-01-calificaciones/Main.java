@@ -109,7 +109,7 @@ public class Main {
         
         for (int i = 0; i < TOTAL_ESTUDIANTES; i++) {
             sumaPromedios += promedios[i];
-            
+            // Encuentra nota mas alta y mas baja del curso
             if (promedios[i] > maxPromedio) {
                 maxPromedio = promedios[i];
             }
