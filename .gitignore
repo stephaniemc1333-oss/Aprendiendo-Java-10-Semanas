@@ -1,0 +1,22 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Carpetas de salida
+bin/
+out/
+target/
+
+# Archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
